@@ -27,7 +27,7 @@ Aplicação mobile integrada a sistemas Web e Desktop com controle de usuários,
 
   ##
   
- ## 📫 Contato
+ ## Contato 📫
 Email: digitalmmii02@gmail.com
 
 <div> 
