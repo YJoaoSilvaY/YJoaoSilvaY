@@ -1,17 +1,15 @@
 ## Olá! Me chamo João Victor
 
-- 🔭 Estou desenvolvendo pequenos projetos
 - 🖥️ Estudando Análise e Desenvolvimento de Sistemas
+- 📱 Estou desenvolvendo pequenos projetos e possuo experiência em desenvolvimento mobile integrado a sistemas Web e Desktop  
 
-📱 Experiência em desenvolvimento mobile integrado a sistemas Web e Desktop  
-
-## 🚀 Tecnologias
+## Conhecimentos 🧠
 - C
 - C#
 - Java
 - Git
 
-## 📌 Projeto em destaque
+## Projeto em destaque 📌
 Sistema de Chamados Multiplataforma  
 Aplicação mobile integrada a sistemas Web e Desktop com controle de usuários, técnicos e administrador.
 
